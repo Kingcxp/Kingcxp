@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Kingcxp
+- 👀 I want to learn everything, but I don't have knowledge about anything at all.
