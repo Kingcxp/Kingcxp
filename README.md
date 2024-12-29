@@ -26,6 +26,8 @@
 [![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=Kingcxp&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C384%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -106,5 +108,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 06:50:01 UTC
+ Last Updated on 29/12/2024 06:50:49 UTC
 <!--END_SECTION:waka-->
