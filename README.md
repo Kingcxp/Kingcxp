@@ -17,13 +17,15 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C402%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,23 +60,22 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-ExtendTypeScript         5 hrs 26 mins       ██████████████████░░░░░░░   72.05 % 
-Markdown                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-JSON5                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Markdown                 1 hr 45 mins        ███████████████████████░░   91.48 % 
+ExtendTypeScript         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Devecostudio             5 hrs 46 mins       ███████████████████░░░░░░   76.51 % 
-VS Code                  1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+VS Code                  1 hr 46 mins        ███████████████████████░░   92.65 % 
+Devecostudio             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🐱‍💻 Projects: 
-MIAD_Frontend            5 hrs 46 mins       ███████████████████░░░░░░   76.51 % 
-EmptySpace               1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+EmptySpace               1 hr 45 mins        ███████████████████████░░   92.16 % 
+MIAD_Frontend            8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -94,7 +95,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 20:13:45 UTC
+ Last Updated on 08/01/2025 20:14:00 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
