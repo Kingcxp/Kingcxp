@@ -17,6 +17,8 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C402%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **🐱 My GitHub Data** 
@@ -31,6 +33,47 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                110 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌆 Daytime                186 commits         ███████████░░░░░░░░░░░░░░   42.08 % 
+🌃 Evening                111 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌙 Night                  35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Tuesday                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Wednesday                86 commits          █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Thursday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Friday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 1 hr 45 mins        █████████████████████████   98.74 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+
+🔥 Editors: 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+EmptySpace               1 hr 45 mins        █████████████████████████   99.47 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+
+💻 Operating System: 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -48,7 +91,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 20:14:00 UTC
+ Last Updated on 10/01/2025 20:14:15 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
