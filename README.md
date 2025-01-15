@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,21 +60,22 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-ExtendTypeScript         1 hr 6 mins         ███████████████████████░░   92.89 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+ExtendTypeScript         4 hrs 25 mins       ████████████████████████░   97.24 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Devecostudio             1 hr 6 mins         ███████████████████████░░   93.03 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Devecostudio             4 hrs 27 mins       █████████████████████████   98.18 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 Projects: 
-MIAD_Frontend            1 hr 6 mins         ███████████████████████░░   93.03 % 
-EmptySpace               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+MIAD_Frontend            4 hrs 27 mins       █████████████████████████   98.18 % 
+EmptySpace               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -94,7 +95,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 20:13:38 UTC
+ Last Updated on 15/01/2025 20:13:21 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
