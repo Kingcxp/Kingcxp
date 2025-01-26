@@ -17,15 +17,13 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C432%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,24 +58,20 @@ Sunday                   79 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 47 mins      ████████████████████░░░░░   80.89 % 
-ExtendTypeScript         2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-CSV                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-JSON5                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-INI                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Python                   20 hrs 57 mins      ███████████████████████░░   93.58 % 
+CSV                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+INI                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 41 mins      █████████████████████░░░░   85.82 % 
-Devecostudio             2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+VS Code                  22 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EmptySpace               15 hrs 15 mins      █████████████████████░░░░   83.45 % 
-MIAD_Frontend            2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-MIAD_Backend             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+EmptySpace               22 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 15 mins      █████████████████████░░░░   83.45 % 
-Windows                  3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Linux                    22 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -97,7 +91,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 20:12:12 UTC
+ Last Updated on 26/01/2025 20:12:32 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
