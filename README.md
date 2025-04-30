@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C673%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,7 +62,7 @@ Sunday                   82 commits          ████░░░░░░░�
 💬 Programming Languages: 
 Vue.js                   11 hrs 52 mins      ████████████████░░░░░░░░░   65.60 % 
 Python                   2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
@@ -72,13 +72,13 @@ VS Code                  18 hrs 5 mins       ███████████�
 🐱‍💻 Projects: 
 rag_docs                 15 hrs 25 mins      █████████████████████░░░░   85.22 % 
 WorkSpace                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-NLP Homework II (2025 Spr52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+NLP Homework II (2025 Spr52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 EmptySpace               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 backend                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  9 hrs 13 mins       █████████████░░░░░░░░░░░░   51.02 % 
-Linux                    8 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.98 % 
+Windows                  9 hrs 13 mins       █████████████░░░░░░░░░░░░   51.01 % 
+Linux                    8 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.99 % 
 ```
 
 **I Mostly Code in Go** 
@@ -98,7 +98,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 20:16:03 UTC
+ Last Updated on 30/04/2025 20:15:37 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
