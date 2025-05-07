@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C680%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C684%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,19 +60,19 @@ Sunday                   82 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
-Markdown                 3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
+Vue.js                   3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
+Markdown                 3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
 Python                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-JavaScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JavaScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 C++                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
 VS Code                  10 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rag_docs                 4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-research                 2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-KernelGPT                1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+rag_docs                 4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.47 % 
+research                 2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+KernelGPT                1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 BidManager_Frontend      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 secii-docs               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
@@ -99,7 +99,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 20:15:39 UTC
+ Last Updated on 07/05/2025 20:15:51 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
