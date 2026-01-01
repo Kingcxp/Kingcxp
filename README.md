@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C075%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 134.5 kB Used in GitHub's Storage 
  > 
-> 🏆 200 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,20 +60,21 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 53 mins             █████████████████████████   99.29 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Markdown                 1 hr 54 mins        █████████████████████████   99.66 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-research                 48 mins             ██████████████████████░░░   89.35 % 
-paper_reports            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-neco                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+EmptySpace               1 hr                █████████████░░░░░░░░░░░░   52.62 % 
+research                 48 mins             ███████████░░░░░░░░░░░░░░   42.33 % 
+paper_reports            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+neco                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   99.29 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Windows                  1 hr 54 mins        █████████████████████████   99.66 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +94,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 20:17:00 UTC
+ Last Updated on 01/01/2026 20:18:06 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
