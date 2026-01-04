@@ -17,6 +17,8 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C084%20hrs%2052%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -31,6 +33,47 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌆 Daytime                222 commits         ███████████░░░░░░░░░░░░░░   43.11 % 
+🌃 Evening                164 commits         ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌙 Night                  54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Tuesday                  100 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Thursday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Sunday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 2 hrs 42 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+EmptySpace               1 hr 20 mins        ████████████░░░░░░░░░░░░░   49.46 % 
+research                 1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.22 % 
+paper_reports            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+💻 Operating System: 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,7 +91,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 20:16:31 UTC
+ Last Updated on 04/01/2026 20:17:12 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
