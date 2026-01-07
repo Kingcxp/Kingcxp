@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -60,17 +60,17 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EmptySpace               1 hr 20 mins        ███████████████░░░░░░░░░░   59.31 % 
-research                 55 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
+EmptySpace               1 hr 20 mins        █████████████░░░░░░░░░░░░   51.10 % 
+research                 1 hr 16 mins        ████████████░░░░░░░░░░░░░   48.90 % 
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 20:17:53 UTC
+ Last Updated on 07/01/2026 20:18:38 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
