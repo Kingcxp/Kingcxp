@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -60,18 +60,18 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               25 mins             ████████████████████░░░░░   78.07 % 
-Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Markdown                 1 hr 7 mins         ██████████████████░░░░░░░   72.53 % 
+TypeScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GenshinTS                25 mins             ████████████████████░░░░░   78.07 % 
-research                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+research                 1 hr 7 mins         ██████████████████░░░░░░░   72.53 % 
+GenshinTS                25 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 20:16:58 UTC
+ Last Updated on 19/01/2026 20:18:03 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
