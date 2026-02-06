@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C100%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,16 +60,20 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.00 % 
+Java                     27 mins             ██████████████████░░░░░░░   71.48 % 
+YAML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            36 mins             ███████████████████████░░   93.80 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🐱‍💻 Projects: 
-EmptySpace               2 mins              █████████████████████████   100.00 % 
+BoltBlitz                36 mins             ███████████████████████░░   93.80 % 
+EmptySpace               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +93,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 20:26:56 UTC
+ Last Updated on 06/02/2026 20:26:58 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
