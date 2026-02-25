@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C113%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C113%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -60,21 +60,20 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   25 mins             ███████████████░░░░░░░░░░   58.55 % 
-Go                       15 mins             █████████░░░░░░░░░░░░░░░░   35.80 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Go                       2 hrs 5 mins        ████████████████████████░   95.63 % 
+Vue.js                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neco                     28 mins             ████████████████░░░░░░░░░   64.20 % 
-moneta                   15 mins             █████████░░░░░░░░░░░░░░░░   35.80 % 
+moneta                   2 hrs 5 mins        ████████████████████████░   95.63 % 
+neco                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Windows                  28 mins             ████████████████░░░░░░░░░   64.20 % 
-Linux                    15 mins             █████████░░░░░░░░░░░░░░░░   35.80 % 
+Linux                    2 hrs 5 mins        ████████████████████████░   95.63 % 
+Windows                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +93,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 20:28:13 UTC
+ Last Updated on 25/02/2026 20:29:31 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
