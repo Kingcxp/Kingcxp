@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -60,20 +60,20 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 14 mins       ███████████████████████░░   90.77 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-reStructuredText         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Go                       2 hrs 6 mins        ███████████████████████░░   90.23 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+reStructuredText         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-moneta                   2 hrs 28 mins       █████████████████████████   100.00 % 
+moneta                   2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +93,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2026 20:30:03 UTC
+ Last Updated on 03/03/2026 20:26:34 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
