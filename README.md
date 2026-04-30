@@ -60,17 +60,17 @@ Sunday                   90 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       ██████████████████████░░░   87.50 % 
-C++                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Markdown                 2 hrs 45 mins       ██████████████████████░░░   86.58 % 
+C++                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-research                 3 hrs 25 mins       █████████████████████████   100.00 % 
+research                 3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 20:57:35 UTC
+ Last Updated on 30/04/2026 20:54:10 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
