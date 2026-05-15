@@ -17,15 +17,13 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C179%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 458.7 kB Used in GitHub's Storage 
  > 
-> 🏆 114 Contributions in the Year 2026
+> 🏆 116 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,53 +31,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-🌆 Daytime                286 commits         ██████████░░░░░░░░░░░░░░░   40.92 % 
-🌃 Evening                209 commits         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌙 Night                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Tuesday                  127 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Wednesday                130 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Thursday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Saturday                 118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Sunday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Typst                    7 hrs 43 mins       ████████████████░░░░░░░░░   62.94 % 
-Markdown                 2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-BibTeX                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-graduation-project       8 hrs 12 mins       █████████████████░░░░░░░░   66.83 % 
-paper-plugin-lecture     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-dataagent-dag            1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-output                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-kddcup2026-data-agent-reb3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-💻 Operating System: 
-Windows                  12 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -97,7 +48,7 @@ C                        2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 21:05:31 UTC
+ Last Updated on 15/05/2026 20:55:24 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
