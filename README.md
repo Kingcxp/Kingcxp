@@ -31,55 +31,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-🌆 Daytime                386 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌃 Evening                302 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
-🌙 Night                  184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Tuesday                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Wednesday                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Friday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Sunday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
-Markdown                 2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Bash                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 57 mins       ███████████████████░░░░░░   77.05 % 
-Zed                      2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-
-🐱‍💻 Projects: 
-MatQuery                 7 hrs 23 mins       ██████████████████░░░░░░░   71.61 % 
-Unknown Project          1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-kingcxp.github.io        45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-EmptySpace               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-ccpp-marp-course-v2      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-
-💻 Operating System: 
-Windows                  7 hrs 15 mins       ██████████████████░░░░░░░   70.26 % 
-WSL                      3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -97,7 +48,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:55:47 UTC
+ Last Updated on 24/07/2026 20:57:42 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
