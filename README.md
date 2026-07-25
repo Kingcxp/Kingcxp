@@ -17,6 +17,8 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C303%20hrs%2052%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -31,6 +33,55 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+🌆 Daytime                386 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌃 Evening                302 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌙 Night                  184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Tuesday                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Wednesday                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Friday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Saturday                 190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Sunday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Markdown                 3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Bash                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 30 mins       ██████████████████░░░░░░░   71.71 % 
+Zed                      3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+
+🐱‍💻 Projects: 
+MatQuery                 7 hrs 57 mins       █████████████████░░░░░░░░   66.98 % 
+kingcxp.github.io        1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Unknown Project          1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+EmptySpace               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+ccpp-marp-course-v2      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+
+💻 Operating System: 
+Windows                  8 hrs 14 mins       █████████████████░░░░░░░░   69.42 % 
+WSL                      3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,7 +99,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:57:42 UTC
+ Last Updated on 25/07/2026 20:43:01 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
