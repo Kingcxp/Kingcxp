@@ -17,15 +17,15 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C303%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C304%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 471.9 kB Used in GitHub's Storage 
+> 📦 475.3 kB Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2026
+> 🏆 261 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-🌆 Daytime                386 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌃 Evening                302 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
-🌙 Night                  184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+🌆 Daytime                390 commits         ██████████░░░░░░░░░░░░░░░   38.58 % 
+🌃 Evening                303 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌙 Night                  187 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Tuesday                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Wednesday                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Friday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Sunday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Monday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Tuesday                  151 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Wednesday                163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Saturday                 190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Sunday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 ```
 
 
@@ -60,26 +60,26 @@ Sunday                   190 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Markdown                 3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-Bash                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   4 hrs               ████████░░░░░░░░░░░░░░░░░   31.57 % 
+Markdown                 2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Bash                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 30 mins       ██████████████████░░░░░░░   71.71 % 
-Zed                      3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+VS Code                  9 hrs 20 mins       ██████████████████░░░░░░░   73.53 % 
+Zed                      3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
 
 🐱‍💻 Projects: 
-MatQuery                 7 hrs 57 mins       █████████████████░░░░░░░░   66.98 % 
-kingcxp.github.io        1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Unknown Project          1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-EmptySpace               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-ccpp-marp-course-v2      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+MatQuery                 9 hrs 17 mins       ██████████████████░░░░░░░   73.07 % 
+kingcxp.github.io        1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Unknown Project          1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+ccpp-marp-course-v2      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+C-C++课程展示PPT-Marpit版     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  8 hrs 14 mins       █████████████████░░░░░░░░   69.42 % 
-WSL                      3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
+Windows                  7 hrs 44 mins       ███████████████░░░░░░░░░░   60.92 % 
+WSL                      4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.08 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +99,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 20:43:01 UTC
+ Last Updated on 26/07/2026 20:50:39 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
