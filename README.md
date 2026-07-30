@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2049%20mins-blue?style=flat)
 
@@ -62,25 +62,26 @@ Sunday                   190 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
-Other                    1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Markdown                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Bash                     2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
+Other                    1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+TeX                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       █████████████████████░░░░   83.83 % 
-Zed                      1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+VS Code                  5 hrs 53 mins       █████████████████████░░░░   83.36 % 
+Zed                      1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
 
 🐱‍💻 Projects: 
-MatQuery                 6 hrs 25 mins       █████████████████████░░░░   83.82 % 
-kingcxp.github.io        1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+MatQuery                 5 hrs 37 mins       ████████████████████░░░░░   79.63 % 
+kingcxp.github.io        1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+WorkSpace                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 chess                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-WSL                      6 hrs 25 mins       █████████████████████░░░░   83.83 % 
-Windows                  1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+WSL                      5 hrs 37 mins       ████████████████████░░░░░   79.64 % 
+Windows                  1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +107,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 20:47:17 UTC
+ Last Updated on 30/07/2026 21:01:00 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
