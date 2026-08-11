@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C257%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2049%20mins-blue?style=flat)
 
@@ -62,23 +62,23 @@ Sunday                   190 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 25 mins       █████████████░░░░░░░░░░░░   53.90 % 
-Markdown                 1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python                   2 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.14 % 
+Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-Zed                      4 hrs 35 mins       ██████████████████░░░░░░░   72.41 % 
-VS Code                  1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Zed                      3 hrs 3 mins        █████████████████░░░░░░░░   68.51 % 
+VS Code                  1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
 
 🐱‍💻 Projects: 
-dpcompat                 3 hrs 21 mins       █████████████░░░░░░░░░░░░   53.10 % 
-MatQuery                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-Unknown Project          1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+dpcompat                 2 hrs 26 mins       ██████████████░░░░░░░░░░░   54.75 % 
+MatQuery                 1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Unknown Project          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 20:35:24 UTC
+ Last Updated on 11/08/2026 20:37:11 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
