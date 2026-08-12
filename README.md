@@ -62,29 +62,47 @@ Sunday                   190 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.14 % 
-Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Markdown                 41 mins             ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Vue                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🔥 Editors: 
-Zed                      3 hrs 3 mins        █████████████████░░░░░░░░   68.51 % 
-VS Code                  1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+VS Code                  1 hr 56 mins        ████████████████████░░░░░   78.09 % 
+Zed                      32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
 
 🐱‍💻 Projects: 
-dpcompat                 2 hrs 26 mins       ██████████████░░░░░░░░░░░   54.75 % 
-MatQuery                 1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-Unknown Project          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+MatQuery                 1 hr 24 mins        ██████████████░░░░░░░░░░░   56.70 % 
+neco                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+dpcompat                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 31 mins (20.96%)
+
+✍️ 1 lines written by AI, 184 lines written by hand (0.54% AI-written)
+
+🔤 1,978,510 Input Tokens, 30,112 Output Tokens
+
+💵 $6.39 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 2 AI Prompts
+
+OMP                      1 lines             █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.54% of written lines came from AI
+📝 Concise Prompter — average 24 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 99.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 20:37:11 UTC
+ Last Updated on 12/08/2026 20:37:02 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
