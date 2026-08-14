@@ -21,7 +21,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,30 +62,29 @@ Sunday                   190 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 36 mins             ████████░░░░░░░░░░░░░░░░░   31.37 % 
-Bash                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Vue                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-YAML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-CSS                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Markdown                 1 hr                ████████████░░░░░░░░░░░░░   46.00 % 
+Vue                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+CSS                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   99.68 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery                 1 hr 23 mins        ██████████████████░░░░░░░   72.10 % 
-neco                     32 mins             ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+neco                     1 hr 15 mins        ██████████████░░░░░░░░░░░   57.29 % 
+MatQuery                 56 mins             ███████████░░░░░░░░░░░░░░   42.71 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (27.02%)
+⏱ AI Coding Time: 31 mins (23.66%)
 
-✍️ 1 lines written by AI, 66 lines written by hand (1.49% AI-written)
+✍️ 1 lines written by AI, 16 lines written by hand (5.88% AI-written)
 
 🔤 1,978,510 Input Tokens, 30,112 Output Tokens
 
@@ -97,10 +96,10 @@ OMP                      1 lines             ███████████�
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.49% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.88% of written lines came from AI
 📝 Concise Prompter — average 24 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 99.62% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +119,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 20:35:25 UTC
+ Last Updated on 14/08/2026 20:25:02 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
