@@ -17,7 +17,7 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C257%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2020%20mins-blue?style=flat)
 
@@ -27,32 +27,32 @@
 
 > 📦 475.8 kB Used in GitHub's Storage 
  > 
-> 🏆 337 Contributions in the Year 2026
+> 🏆 342 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-🌆 Daytime                456 commits         ██████████░░░░░░░░░░░░░░░   41.99 % 
-🌃 Evening                312 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-🌙 Night                  187 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+🌆 Daytime                456 commits         ██████████░░░░░░░░░░░░░░░   41.95 % 
+🌃 Evening                312 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+🌙 Night                  188 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Wednesday                234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Monday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
 Thursday                 108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Saturday                 190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Sunday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Saturday                 191 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Sunday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 ```
 
 
@@ -62,27 +62,27 @@ Sunday                   190 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr                ████████████░░░░░░░░░░░░░   46.00 % 
-Vue                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-CSS                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 1 hr                ████████████░░░░░░░░░░░░░   47.68 % 
+Vue                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+CSS                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neco                     1 hr 15 mins        ██████████████░░░░░░░░░░░   57.29 % 
-MatQuery                 56 mins             ███████████░░░░░░░░░░░░░░   42.71 % 
+neco                     1 hr 15 mins        ███████████████░░░░░░░░░░   59.39 % 
+MatQuery                 51 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (23.66%)
+⏱ AI Coding Time: 31 mins (24.53%)
 
 ✍️ 1 lines written by AI, 16 lines written by hand (5.88% AI-written)
 
@@ -90,14 +90,14 @@ Windows                  2 hrs 12 mins       ███████████�
 
 💵 $6.39 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 2 AI Prompts
+🧠 22 AI Sessions, 3 AI Prompts
 
 OMP                      1 lines             █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 5.88% of written lines came from AI
-📝 Concise Prompter — average 24 characters per prompt
+📝 Concise Prompter — average 23 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 97.5% of changed lines were hand-edited
 ```
@@ -105,11 +105,11 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Typst                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Typst                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -119,7 +119,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 20:25:02 UTC
+ Last Updated on 15/08/2026 20:15:32 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
