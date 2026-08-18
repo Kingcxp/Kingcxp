@@ -17,9 +17,9 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C259%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,20 +62,20 @@ Sunday                   263 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       54 mins             ████████░░░░░░░░░░░░░░░░░   31.87 % 
+C#                       54 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
 Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Vue                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Vue                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       ████████████████████████░   96.68 % 
-Zed                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+VS Code                  2 hrs 45 mins       ████████████████████████░   96.69 % 
+Zed                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🐱‍💻 Projects: 
-dont_press               1 hr 33 mins        ██████████████░░░░░░░░░░░   54.80 % 
-neco                     1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.30 % 
-MatQuery                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+dont_press               1 hr 33 mins        ██████████████░░░░░░░░░░░   54.78 % 
+neco                     1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.29 % 
+MatQuery                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
 Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
@@ -84,7 +84,7 @@ Windows                  2 hrs 50 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (70.72%)
+⏱ AI Coding Time: 2 hrs (70.7%)
 
 ✍️ 3 lines written by AI, 12 lines written by hand (20.0% AI-written)
 
@@ -121,7 +121,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 20:19:17 UTC
+ Last Updated on 18/08/2026 20:16:12 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
