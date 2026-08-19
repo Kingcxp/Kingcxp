@@ -27,7 +27,7 @@
 
 > 📦 476.8 kB Used in GitHub's Storage 
  > 
-> 🏆 455 Contributions in the Year 2026
+> 🏆 456 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,20 +39,20 @@
 
 ```text
 🌞 Morning                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                495 commits         ██████████░░░░░░░░░░░░░░░   41.39 % 
-🌃 Evening                321 commits         ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-🌙 Night                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+🌆 Daytime                496 commits         ██████████░░░░░░░░░░░░░░░   41.44 % 
+🌃 Evening                321 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌙 Night                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Wednesday                234 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Thursday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Friday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Saturday                 201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Sunday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Wednesday                235 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Thursday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Friday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Saturday                 201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Sunday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
 ```
 
 
@@ -62,46 +62,47 @@ Sunday                   263 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       54 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
-Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Vue                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+C#                       54 mins             █████████░░░░░░░░░░░░░░░░   34.27 % 
+Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Godot Resource           17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       ████████████████████████░   96.69 % 
-Zed                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+VS Code                  2 hrs 33 mins       ████████████████████████░   96.44 % 
+Zed                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🐱‍💻 Projects: 
-dont_press               1 hr 33 mins        ██████████████░░░░░░░░░░░   54.78 % 
-neco                     1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.29 % 
-MatQuery                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+dont_press               1 hr 33 mins        ███████████████░░░░░░░░░░   58.92 % 
+neco                     43 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+MatQuery                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (70.7%)
+⏱ AI Coding Time: 1 hr 49 mins (69.13%)
 
-✍️ 3 lines written by AI, 12 lines written by hand (20.0% AI-written)
+✍️ 2 lines written by AI, 12 lines written by hand (14.29% AI-written)
 
-🔤 23,557,157 Input Tokens, 108,649 Output Tokens
+🔤 21,967,874 Input Tokens, 90,409 Output Tokens
 
-💵 $136.71 Estimated AI Cost This Week
+💵 $102.58 Estimated AI Cost This Week
 
-🧠 117 AI Sessions, 11 AI Prompts
+🧠 104 AI Sessions, 9 AI Prompts
 
-OMP                      3 lines             █████████████████████████   100.00 % 
+OMP                      2 lines             █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.0% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
+🧑‍💻 Mostly Hands-On — 14.29% of written lines came from AI
+📝 Concise Prompter — average 99 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 91.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 20:16:12 UTC
+ Last Updated on 19/08/2026 20:20:05 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
