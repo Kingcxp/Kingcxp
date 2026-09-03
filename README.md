@@ -25,9 +25,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 482.8 kB Used in GitHub's Storage 
+> 📦 483.3 kB Used in GitHub's Storage 
  > 
-> 🏆 740 Contributions in the Year 2026
+> 🏆 770 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-🌆 Daytime                585 commits         ██████████░░░░░░░░░░░░░░░   38.66 % 
-🌃 Evening                406 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌙 Night                  344 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌞 Morning                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+🌆 Daytime                597 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
+🌃 Evening                415 commits         ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+🌙 Night                  355 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Tuesday                  178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Wednesday                275 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Thursday                 143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Friday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Sunday                   294 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                  178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Wednesday                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Thursday                 164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Sunday                   294 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 ```
 
 
@@ -62,49 +62,48 @@ Sunday                   294 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 41 mins       ██████████████░░░░░░░░░░░   57.41 % 
-Markdown                 3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-C#                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python                   5 hrs 12 mins       ████████████████████░░░░░   80.30 % 
+Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 26 mins      █████████████████████████   98.15 % 
-OMP                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery                 8 hrs 36 mins       ██████████████████░░░░░░░   73.85 % 
-mailflow                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Unknown Project          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-dont_press               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-matquery_report.md       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+MatQuery                 4 hrs 44 mins       ██████████████████░░░░░░░   73.05 % 
+mailflow                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+calculations             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+myconfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+mailflow-repo            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  11 hrs 32 mins      █████████████████████████   99.00 % 
-Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Windows                  6 hrs 22 mins       █████████████████████████   98.21 % 
+Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 3 mins (94.92%)
+⏱ AI Coding Time: 6 hrs 15 mins (96.49%)
 
-✍️ 1,467 lines written by AI, 3 lines written by hand (99.8% AI-written)
+✍️ 1,430 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 487,826,081 Input Tokens, 427,149 Output Tokens
+🔤 278,622,653 Input Tokens, 252,314 Output Tokens
 
-💵 $2990.70 Estimated AI Cost This Week
+💵 $1721.18 Estimated AI Cost This Week
 
-🧠 1243 AI Sessions, 72 AI Prompts
+🧠 660 AI Sessions, 48 AI Prompts
 
-OMP                      1,467 lines         █████████████████████████   100.00 % 
+OMP                      1,430 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📝 Concise Prompter — average 184 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 178 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +123,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 22:15:48 UTC
+ Last Updated on 03/09/2026 22:08:15 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
