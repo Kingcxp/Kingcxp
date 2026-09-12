@@ -62,47 +62,47 @@ Sunday                   297 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 57 mins      ██████████████████░░░░░░░   71.63 % 
-Markdown                 2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   7 hrs 6 mins        ████████████████░░░░░░░░░   65.78 % 
+Markdown                 2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Other                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery                 10 hrs 22 mins      ██████████████░░░░░░░░░░░   57.33 % 
-mailflow                 5 hrs               ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-material_database        1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-RLSA_Speaking_Presentatio47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+MatQuery                 7 hrs 21 mins       █████████████████░░░░░░░░   68.23 % 
+material_database        1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+mailflow                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+RLSA_Speaking_Presentatio47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  18 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 16 mins (95.48%)
+⏱ AI Coding Time: 9 hrs 58 mins (92.43%)
 
-✍️ 542 lines written by AI, 50 lines written by hand (91.55% AI-written)
+✍️ 24 lines written by AI, 50 lines written by hand (32.43% AI-written)
 
-🔤 196,537,668 Input Tokens, 194,472 Output Tokens
+🔤 114,471,113 Input Tokens, 92,739 Output Tokens
 
-💵 $1161.35 Estimated AI Cost This Week
+💵 $677.04 Estimated AI Cost This Week
 
-🧠 798 AI Sessions, 51 AI Prompts
+🧠 375 AI Sessions, 30 AI Prompts
 
-OMP                      542 lines           █████████████████████████   100.00 % 
+OMP                      24 lines            █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.55% of written lines came from AI
-📝 Concise Prompter — average 58 characters per prompt
+🧑‍💻 Mostly Hands-On — 32.43% of written lines came from AI
+📝 Concise Prompter — average 40 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 20.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 22:09:52 UTC
+ Last Updated on 12/09/2026 21:53:44 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
