@@ -27,7 +27,7 @@
 
 > 📦 483.5 kB Used in GitHub's Storage 
  > 
-> 🏆 828 Contributions in the Year 2026
+> 🏆 829 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-🌆 Daytime                627 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
-🌃 Evening                426 commits         ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-🌙 Night                  370 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+🌆 Daytime                627 commits         ██████████░░░░░░░░░░░░░░░   39.09 % 
+🌃 Evening                427 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌙 Night                  370 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Tuesday                  188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Wednesday                279 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Monday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Tuesday                  188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Wednesday                279 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 Thursday                 173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Friday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Saturday                 302 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Sunday                   297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Friday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Saturday                 302 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Sunday                   298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 
 
@@ -62,47 +62,49 @@ Sunday                   297 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 6 mins        ████████████████░░░░░░░░░   65.78 % 
-Markdown                 2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Other                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Markdown                 7 hrs               ████████████████░░░░░░░░░   62.70 % 
+Python                   2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Roff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 1 min        █████████████████████████   98.67 % 
+OMP                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-MatQuery                 7 hrs 21 mins       █████████████████░░░░░░░░   68.23 % 
-material_database        1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-mailflow                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-RLSA_Speaking_Presentatio47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+MatQuery                 6 hrs 27 mins       ██████████████░░░░░░░░░░░   57.79 % 
+Unknown Project          2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+material_database        1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+RLSA_Speaking_Presentatio47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+WorkSpace                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 58 mins (92.43%)
+⏱ AI Coding Time: 9 hrs 59 mins (89.38%)
 
-✍️ 24 lines written by AI, 50 lines written by hand (32.43% AI-written)
+✍️ 156 lines written by AI, 53 lines written by hand (74.64% AI-written)
 
-🔤 114,471,113 Input Tokens, 92,739 Output Tokens
+🔤 149,820,529 Input Tokens, 134,772 Output Tokens
 
-💵 $677.04 Estimated AI Cost This Week
+💵 $896.45 Estimated AI Cost This Week
 
-🧠 375 AI Sessions, 30 AI Prompts
+🧠 463 AI Sessions, 43 AI Prompts
 
-OMP                      24 lines            █████████████████████████   100.00 % 
+OMP                      156 lines           █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.43% of written lines came from AI
-📝 Concise Prompter — average 40 characters per prompt
+🤖 AI-Driven — 74.64% of written lines came from AI
+📝 Concise Prompter — average 63 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 85.19% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +124,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 21:53:44 UTC
+ Last Updated on 13/09/2026 22:01:15 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
