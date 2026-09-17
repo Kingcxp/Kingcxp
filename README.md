@@ -17,17 +17,17 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C341%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C344%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 486.3 kB Used in GitHub's Storage 
+> 📦 484.8 kB Used in GitHub's Storage 
  > 
-> 🏆 849 Contributions in the Year 2026
+> 🏆 861 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-🌆 Daytime                636 commits         ██████████░░░░░░░░░░░░░░░   39.14 % 
-🌃 Evening                434 commits         ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-🌙 Night                  375 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌞 Morning                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+🌆 Daytime                646 commits         ██████████░░░░░░░░░░░░░░░   39.46 % 
+🌃 Evening                436 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+🌙 Night                  374 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Thursday                 175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Friday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Saturday                 302 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Sunday                   298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Tuesday                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Saturday                 302 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Sunday                   298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
 ```
 
 
@@ -125,7 +125,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 22:34:07 UTC
+ Last Updated on 17/09/2026 22:36:35 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
