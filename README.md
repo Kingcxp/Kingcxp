@@ -25,9 +25,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 486.1 kB Used in GitHub's Storage 
+> 📦 486.4 kB Used in GitHub's Storage 
  > 
-> 🏆 880 Contributions in the Year 2026
+> 🏆 888 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-🌆 Daytime                655 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
-🌃 Evening                455 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌙 Night                  374 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+🌞 Morning                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+🌆 Daytime                660 commits         ██████████░░░░░░░░░░░░░░░   39.43 % 
+🌃 Evening                459 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌙 Night                  374 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Tuesday                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Saturday                 302 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Sunday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Tuesday                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Saturday                 311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Sunday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 ```
 
 
@@ -62,39 +62,39 @@ Sunday                   298 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   33.26 % 
-Markdown                 9 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-Other                    9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-YAML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Python                   14 hrs 1 min        █████████░░░░░░░░░░░░░░░░   37.03 % 
+Other                    9 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Markdown                 9 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+YAML                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 21 mins      █████████████████░░░░░░░░   67.55 % 
-OMP                      11 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   32.45 % 
+VS Code                  26 hrs 40 mins      ██████████████████░░░░░░░   70.38 % 
+OMP                      11 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.62 % 
 
 🐱‍💻 Projects: 
-MatQuery                 20 hrs 58 mins      ███████████████░░░░░░░░░░   60.66 % 
-mailflow                 6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-WorkSpace                3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Unknown Project          3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-COMP6703                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+MatQuery                 24 hrs 34 mins      ████████████████░░░░░░░░░   64.85 % 
+mailflow                 6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+WorkSpace                3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Unknown Project          2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+COMP6703                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Windows                  34 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 14 mins (96.12%)
+⏱ AI Coding Time: 36 hrs 27 mins (96.23%)
 
 ✍️ 10,625 lines written by AI, 232 lines written by hand (97.86% AI-written)
 
-🔤 694,564,913 Input Tokens, 156,222,037 Output Tokens
+🔤 836,367,000 Input Tokens, 159,957,691 Output Tokens
 
-💵 $4582.11 Estimated AI Cost This Week
+💵 $5462.64 Estimated AI Cost This Week
 
-🧠 2831 AI Sessions, 643 AI Prompts
+🧠 3132 AI Sessions, 715 AI Prompts
 
 OMP                      10,625 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -103,9 +103,9 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.86% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
+📝 Concise Prompter — average 67 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 3.8% of changed lines were hand-edited
+🚀 High AI Trust — 3.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -125,7 +125,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 22:10:10 UTC
+ Last Updated on 19/09/2026 22:02:15 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
