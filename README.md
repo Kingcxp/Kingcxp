@@ -17,9 +17,9 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C366%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C371%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,47 +62,47 @@ Sunday                   299 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   27 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.48 % 
-Other                    14 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Markdown                 13 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-YAML                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   21 hrs 57 mins      ███████████░░░░░░░░░░░░░░   43.95 % 
+Markdown                 12 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Other                    11 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+YAML                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Vue                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  60 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  49 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery                 53 hrs 40 mins      ██████████████████████░░░   88.35 % 
-mailflow                 2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-MatQuery_Rebuild         1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-dpcompat                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-neco                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+MatQuery                 45 hrs 36 mins      ███████████████████████░░   91.29 % 
+MatQuery_Rebuild         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+dpcompat                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+neco                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+dont_press               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Windows                  60 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  49 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 31 mins (97.99%)
+⏱ AI Coding Time: 48 hrs 43 mins (97.53%)
 
-✍️ 962 lines written by AI, 35 lines written by hand (96.49% AI-written)
+✍️ 851 lines written by AI, 35 lines written by hand (96.05% AI-written)
 
-🔤 3,242,860,266 Input Tokens, 29,227,053 Output Tokens
+🔤 2,435,068,749 Input Tokens, 25,083,351 Output Tokens
 
-💵 $19507.51 Estimated AI Cost This Week
+💵 $14723.26 Estimated AI Cost This Week
 
-🧠 9594 AI Sessions, 1136 AI Prompts
+🧠 6725 AI Sessions, 799 AI Prompts
 
-OMP                      962 lines           █████████████████████████   100.00 % 
+OMP                      851 lines           █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.49% of written lines came from AI
-📝 Concise Prompter — average 162 characters per prompt
+🤖 AI-Driven — 96.05% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 38.88% of changed lines were hand-edited
+🚀 High AI Trust — 41.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 22:56:31 UTC
+ Last Updated on 25/09/2026 23:01:19 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
