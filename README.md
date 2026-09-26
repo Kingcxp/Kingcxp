@@ -17,9 +17,9 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C371%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C371%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,47 +62,47 @@ Sunday                   299 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   21 hrs 57 mins      ███████████░░░░░░░░░░░░░░   43.95 % 
-Markdown                 12 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Other                    11 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-YAML                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Vue                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   18 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   41.02 % 
+Markdown                 11 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Other                    10 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+YAML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Vue                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  49 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  44 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery                 45 hrs 36 mins      ███████████████████████░░   91.29 % 
-MatQuery_Rebuild         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-dpcompat                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-neco                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-dont_press               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+MatQuery                 40 hrs 22 mins      ███████████████████████░░   90.27 % 
+MatQuery_Rebuild         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+dpcompat                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+neco                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+dont_press               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  49 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  44 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 43 mins (97.53%)
+⏱ AI Coding Time: 43 hrs 34 mins (97.43%)
 
 ✍️ 851 lines written by AI, 35 lines written by hand (96.05% AI-written)
 
-🔤 2,435,068,749 Input Tokens, 25,083,351 Output Tokens
+🔤 2,209,243,764 Input Tokens, 15,906,406 Output Tokens
 
-💵 $14723.26 Estimated AI Cost This Week
+💵 $13283.83 Estimated AI Cost This Week
 
-🧠 6725 AI Sessions, 799 AI Prompts
+🧠 6240 AI Sessions, 658 AI Prompts
 
 OMP                      851 lines           █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.05% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
+📝 Concise Prompter — average 148 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 41.83% of changed lines were hand-edited
+🚀 High AI Trust — 41.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 23:01:19 UTC
+ Last Updated on 26/09/2026 22:19:04 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
