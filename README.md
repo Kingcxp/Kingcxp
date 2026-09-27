@@ -62,47 +62,47 @@ Sunday                   299 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   41.02 % 
-Markdown                 11 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-Other                    10 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-YAML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Vue                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Python                   16 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.46 % 
+Markdown                 10 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Other                    9 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Vue                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-VS Code                  44 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  41 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery                 40 hrs 22 mins      ███████████████████████░░   90.27 % 
-MatQuery_Rebuild         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-dpcompat                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-neco                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-dont_press               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+MatQuery                 36 hrs 39 mins      ██████████████████████░░░   89.38 % 
+MatQuery_Rebuild         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+dpcompat                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+neco                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+dont_press               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Windows                  44 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 34 mins (97.43%)
+⏱ AI Coding Time: 39 hrs 51 mins (97.2%)
 
-✍️ 851 lines written by AI, 35 lines written by hand (96.05% AI-written)
+✍️ 841 lines written by AI, 35 lines written by hand (96.0% AI-written)
 
-🔤 2,209,243,764 Input Tokens, 15,906,406 Output Tokens
+🔤 2,010,282,069 Input Tokens, 6,773,472 Output Tokens
 
-💵 $13283.83 Estimated AI Cost This Week
+💵 $12359.40 Estimated AI Cost This Week
 
-🧠 6240 AI Sessions, 658 AI Prompts
+🧠 5833 AI Sessions, 501 AI Prompts
 
 OMP                      851 lines           █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.05% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
+🤖 AI-Driven — 96.0% of written lines came from AI
+📝 Concise Prompter — average 157 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 41.79% of changed lines were hand-edited
+🚀 High AI Trust — 42.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 22:19:04 UTC
+ Last Updated on 27/09/2026 22:45:39 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
