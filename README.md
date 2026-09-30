@@ -17,9 +17,9 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C379%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C385%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -27,7 +27,7 @@
 
 > 📦 487.4 kB Used in GitHub's Storage 
  > 
-> 🏆 900 Contributions in the Year 2026
+> 🏆 901 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌆 Daytime                678 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
-🌃 Evening                494 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-🌙 Night                  397 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+🌞 Morning                184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+🌆 Daytime                679 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
+🌃 Evening                494 commits         ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+🌙 Night                  397 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Wednesday                289 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Sunday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Wednesday                290 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Sunday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
 ```
 
 
@@ -62,45 +62,47 @@ Sunday                   299 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.62 % 
-Other                    8 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Markdown                 5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Makefile                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Python                   20 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.16 % 
+Markdown                 11 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Other                    10 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Image (png)              55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  46 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery_Rebuild         15 hrs 32 mins      █████████████░░░░░░░░░░░░   53.04 % 
-MatQuery                 13 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
-Unknown Project          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-jarvissrc                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+MatQuery_Rebuild         34 hrs 10 mins      ██████████████████░░░░░░░   73.02 % 
+MatQuery                 11 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Unknown Project          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+chess                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+jarvissrc                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  29 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 2 mins (95.75%)
+⏱ AI Coding Time: 46 hrs 12 mins (98.75%)
 
-✍️ 385 lines written by AI, 36 lines written by hand (91.45% AI-written)
+✍️ 615 lines written by AI, 11 lines written by hand (98.24% AI-written)
 
-🔤 1,483,344,940 Input Tokens, 7,648,784 Output Tokens
+🔤 3,172,541,261 Input Tokens, 19,130,899 Output Tokens
 
-💵 $11810.35 Estimated AI Cost This Week
+💵 $21918.51 Estimated AI Cost This Week
 
-🧠 8864 AI Sessions, 652 AI Prompts
+🧠 17932 AI Sessions, 1256 AI Prompts
 
-OMP                      435 lines           █████████████████████████   100.00 % 
+OMP                      665 lines           █████████████████████████   100.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.45% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
+🤖 AI-Driven — 98.24% of written lines came from AI
+📝 Concise Prompter — average 228 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 61.38% of changed lines were hand-edited
+🚀 High AI Trust — 20.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 23:21:55 UTC
+ Last Updated on 30/09/2026 23:23:56 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
