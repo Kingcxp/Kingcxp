@@ -17,15 +17,15 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C385%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 487.4 kB Used in GitHub's Storage 
+> 📦 487.5 kB Used in GitHub's Storage 
  > 
 > 🏆 901 Contributions in the Year 2026
  > 
@@ -62,47 +62,47 @@ Sunday                   299 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.16 % 
-Markdown                 11 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Other                    10 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Image (png)              55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Python                   21 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   38.81 % 
+Other                    13 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Markdown                 12 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Image (png)              3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+YAML                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-VS Code                  46 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  56 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery_Rebuild         34 hrs 10 mins      ██████████████████░░░░░░░   73.02 % 
-MatQuery                 11 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Unknown Project          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-chess                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-jarvissrc                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+MatQuery_Rebuild         45 hrs 19 mins      ████████████████████░░░░░   80.75 % 
+Unknown Project          5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+MatQuery                 4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+mailflow                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+chess                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  46 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  56 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 12 mins (98.75%)
+⏱ AI Coding Time: 55 hrs 52 mins (99.53%)
 
-✍️ 615 lines written by AI, 11 lines written by hand (98.24% AI-written)
+✍️ 632 lines written by AI, 10 lines written by hand (98.44% AI-written)
 
-🔤 3,172,541,261 Input Tokens, 19,130,899 Output Tokens
+🔤 4,604,768,154 Input Tokens, 28,083,823 Output Tokens
 
-💵 $21918.51 Estimated AI Cost This Week
+💵 $30441.48 Estimated AI Cost This Week
 
-🧠 17932 AI Sessions, 1256 AI Prompts
+🧠 22045 AI Sessions, 1521 AI Prompts
 
-OMP                      665 lines           █████████████████████████   100.00 % 
+OMP                      682 lines           █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.24% of written lines came from AI
-📝 Concise Prompter — average 228 characters per prompt
+🤖 AI-Driven — 98.44% of written lines came from AI
+📝 Concise Prompter — average 216 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 20.75% of changed lines were hand-edited
+🚀 High AI Trust — 20.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 23:23:56 UTC
+ Last Updated on 01/10/2026 23:38:33 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
