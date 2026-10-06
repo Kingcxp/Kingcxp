@@ -17,11 +17,11 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C441%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C441%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,49 +62,48 @@ Sunday                   304 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   30 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   34.03 % 
-Other                    26 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Markdown                 23 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Image (png)              4 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-YAML                     2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Python                   27 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.20 % 
+Other                    25 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   30.78 % 
+Markdown                 21 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Image (png)              3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+YAML                     2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-VS Code                  90 hrs 24 mins      █████████████████████████   99.61 % 
-OMP                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+VS Code                  83 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatQuery_Rebuild         79 hrs 37 mins      ██████████████████████░░░   87.73 % 
-Unknown Project          7 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-MatQuery                 3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-tmp                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-mailflow                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+MatQuery_Rebuild         72 hrs 16 mins      ██████████████████████░░░   88.20 % 
+Unknown Project          6 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+MatQuery                 2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+mailflow                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+upstream                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  90 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  81 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 89 hrs 43 mins (98.86%)
+⏱ AI Coding Time: 81 hrs 6 mins (98.96%)
 
-✍️ 1,778 lines written by AI, 124 lines written by hand (93.48% AI-written)
+✍️ 1,765 lines written by AI, 123 lines written by hand (93.49% AI-written)
 
-🔤 7,935,040,557 Input Tokens, 58,365,447 Output Tokens
+🔤 7,594,661,446 Input Tokens, 56,256,893 Output Tokens
 
-💵 $48562.41 Estimated AI Cost This Week
+💵 $46575.86 Estimated AI Cost This Week
 
-🧠 33574 AI Sessions, 2601 AI Prompts
+🧠 31667 AI Sessions, 2402 AI Prompts
 
-OMP                      1,778 lines         █████████████████████████   100.00 % 
+OMP                      1,765 lines         █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.48% of written lines came from AI
-📝 Concise Prompter — average 169 characters per prompt
+🤖 AI-Driven — 93.49% of written lines came from AI
+📝 Concise Prompter — average 172 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 13.4% of changed lines were hand-edited
+🚀 High AI Trust — 13.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +123,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 01:05:24 UTC
+ Last Updated on 06/10/2026 23:31:26 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
