@@ -17,9 +17,9 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C594%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-429%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-449%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,51 +62,51 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   43 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
-Markdown                 34 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   30.87 % 
-Other                    18 hrs 24 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-TeX                      9 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-YAML                     1 hr 43 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   39 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   39.26 % 
+Markdown                 31 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.04 % 
+TeX                      11 hrs 44 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Other                    10 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+YAML                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Codex Vscode             100 hrs 19 mins     ██████████████████████░░░   89.37 % 
-OMP                      8 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-VS Code                  3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Codex Vscode             97 hrs 26 mins      ████████████████████████░   95.81 % 
+VS Code                  3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+OMP                      51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-MatQuery_Rebuild         101 hrs 29 mins     ███████████████████████░░   90.40 % 
-exfil                    9 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-dont_press               54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-chess-mod                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-alpha-mod                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+MatQuery_Rebuild         90 hrs 12 mins      ██████████████████████░░░   88.71 % 
+exfil                    9 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+COMP6703                 56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+dont_press               54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+an-zhu                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  112 hrs 16 mins     █████████████████████████   100.00 % 
+Windows                  101 hrs 42 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 110 hrs 49 mins (98.72%)
+⏱ AI Coding Time: 100 hrs 19 mins (98.65%)
 
-✍️ 109,829 lines written by AI, 485 lines written by hand (99.56% AI-written)
+✍️ 129,462 lines written by AI, 402 lines written by hand (99.69% AI-written)
 
-🔤 853,400,202 Input Tokens, 18,782,549 Output Tokens
+🔤 889,220,549 Input Tokens, 21,995,221 Output Tokens
 
-💵 $12690.89 Estimated AI Cost This Week
+💵 $14707.44 Estimated AI Cost This Week
 
-🧠 906 AI Sessions, 655 AI Prompts
+🧠 625 AI Sessions, 754 AI Prompts
 
-GPT                      111,760 lines       █████████████████████████   99.90 % 
-Codex-Vscode             116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+GPT                      131,144 lines       █████████████████████████   99.91 % 
+Codex-Vscode             116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📚 Verbose Prompter — average 6,482 characters per prompt
+🤖 AI-Driven — 99.69% of written lines came from AI
+📚 Verbose Prompter — average 6,226 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 23:16:30 UTC
+ Last Updated on 20/10/2026 22:53:55 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
