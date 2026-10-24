@@ -17,9 +17,9 @@
 
 **Here are my GitHub stats: 👇**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C660%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C671%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-494%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-505%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,47 +62,47 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   76 hrs 43 mins      ████████████████░░░░░░░░░   63.34 % 
-Markdown                 21 hrs 47 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-TeX                      10 hrs 27 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-YAML                     9 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Other                    56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Python                   70 hrs 35 mins      ███████████████░░░░░░░░░░   61.27 % 
+Markdown                 21 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+YAML                     10 hrs 56 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+TeX                      10 hrs 27 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Codex Vscode             108 hrs 41 mins     ██████████████████████░░░   89.72 % 
-VS Code                  12 hrs 27 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Codex Vscode             90 hrs 3 mins       ████████████████████░░░░░   78.17 % 
+VS Code                  25 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
 
 🐱‍💻 Projects: 
-MatQuery_Rebuild         119 hrs 46 mins     █████████████████████████   98.87 % 
-COMP6703                 1 hr 16 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+MatQuery_Rebuild         113 hrs 50 mins     █████████████████████████   98.82 % 
+COMP6703                 1 hr 16 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 an-zhu                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  121 hrs 8 mins      █████████████████████████   100.00 % 
+Windows                  115 hrs 11 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 120 hrs 43 mins (99.66%)
+⏱ AI Coding Time: 114 hrs 45 mins (99.62%)
 
-✍️ 159,387 lines written by AI, 137 lines written by hand (99.91% AI-written)
+✍️ 135,372 lines written by AI, 136 lines written by hand (99.9% AI-written)
 
-🔤 1,718,476,847 Input Tokens, 37,774,955 Output Tokens
+🔤 1,697,760,666 Input Tokens, 36,390,340 Output Tokens
 
-💵 $26714.72 Estimated AI Cost This Week
+💵 $25799.78 Estimated AI Cost This Week
 
-🧠 708 AI Sessions, 809 AI Prompts
+🧠 724 AI Sessions, 805 AI Prompts
 
-GPT                      163,486 lines       █████████████████████████   99.93 % 
-Codex-Vscode             118 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+GPT                      139,336 lines       █████████████████████████   99.92 % 
+Codex-Vscode             118 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 5,934 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 5,388 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.72% of changed lines were hand-edited
+🚀 High AI Trust — 0.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +122,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 22:50:24 UTC
+ Last Updated on 24/10/2026 22:11:52 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
