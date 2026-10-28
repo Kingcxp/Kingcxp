@@ -21,7 +21,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-549%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,46 +62,46 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   61 hrs 41 mins      █████████████████░░░░░░░░   69.80 % 
-Markdown                 12 hrs 6 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-YAML                     8 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Diff                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-TeX                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   47 hrs 1 min        █████████████████░░░░░░░░   67.46 % 
+Markdown                 8 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+YAML                     8 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Diff                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TeX                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Codex Vscode             57 hrs 21 mins      ████████████████░░░░░░░░░   64.90 % 
-VS Code                  31 hrs 1 min        █████████░░░░░░░░░░░░░░░░   35.10 % 
+Codex Vscode             38 hrs 41 mins      ██████████████░░░░░░░░░░░   55.50 % 
+VS Code                  31 hrs              ███████████░░░░░░░░░░░░░░   44.50 % 
 
 🐱‍💻 Projects: 
-MatQuery_Rebuild         87 hrs 43 mins      █████████████████████████   99.25 % 
-COMP6703                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-zyh_assignment_fix       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+MatQuery_Rebuild         69 hrs 8 mins       █████████████████████████   99.19 % 
+zyh_assignment_fix       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+COMP6703                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  88 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  69 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 88 hrs 17 mins (99.9%)
+⏱ AI Coding Time: 69 hrs 36 mins (99.88%)
 
-✍️ 83,761 lines written by AI, 4 lines written by hand (100.0% AI-written)
+✍️ 68,671 lines written by AI, 4 lines written by hand (99.99% AI-written)
 
-🔤 1,326,766,272 Input Tokens, 33,998,684 Output Tokens
+🔤 866,372,836 Input Tokens, 28,920,759 Output Tokens
 
-💵 $22384.71 Estimated AI Cost This Week
+💵 $16762.25 Estimated AI Cost This Week
 
-🧠 889 AI Sessions, 670 AI Prompts
+🧠 763 AI Sessions, 566 AI Prompts
 
-GPT                      89,930 lines        █████████████████████████   100.00 % 
+GPT                      74,554 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,702 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 1,578 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 23:26:18 UTC
+ Last Updated on 28/10/2026 23:47:56 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
