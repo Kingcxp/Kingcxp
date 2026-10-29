@@ -62,46 +62,50 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   47 hrs 1 min        █████████████████░░░░░░░░   67.46 % 
-Markdown                 8 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-YAML                     8 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Diff                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-TeX                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Python                   68 hrs 8 mins       ████████████████░░░░░░░░░   62.48 % 
+Markdown                 16 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Other                    9 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+YAML                     6 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Diff                     3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-Codex Vscode             38 hrs 41 mins      ██████████████░░░░░░░░░░░   55.50 % 
-VS Code                  31 hrs              ███████████░░░░░░░░░░░░░░   44.50 % 
+VS Code                  73 hrs 30 mins      █████████████████░░░░░░░░   67.40 % 
+Codex Vscode             35 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.60 % 
 
 🐱‍💻 Projects: 
-MatQuery_Rebuild         69 hrs 8 mins       █████████████████████████   99.19 % 
-zyh_assignment_fix       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-COMP6703                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+MatQuery_Rebuild         80 hrs 23 mins      ██████████████████░░░░░░░   73.70 % 
+MatQuery                 16 hrs 43 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+exfil                    6 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+miniprogram_workdir      2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+ELEC7043                 1 hr 52 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Windows                  69 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  109 hrs 4 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 69 hrs 36 mins (99.88%)
+⏱ AI Coding Time: 108 hrs 36 mins (99.58%)
 
-✍️ 68,671 lines written by AI, 4 lines written by hand (99.99% AI-written)
+✍️ 127,327 lines written by AI, 10 lines written by hand (99.99% AI-written)
 
-🔤 866,372,836 Input Tokens, 28,920,759 Output Tokens
+🔤 1,066,354,639 Input Tokens, 36,831,955 Output Tokens
 
-💵 $16762.25 Estimated AI Cost This Week
+💵 $19239.36 Estimated AI Cost This Week
 
-🧠 763 AI Sessions, 566 AI Prompts
+🧠 1137 AI Sessions, 962 AI Prompts
 
-GPT                      74,554 lines        █████████████████████████   100.00 % 
+GPT                      132,536 lines       █████████████████████████   99.94 % 
+Codex-Vscode             84 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,578 characters per prompt
+📄 Detailed Prompter — average 1,333 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +125,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 23:47:56 UTC
+ Last Updated on 29/10/2026 23:45:52 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
