@@ -62,46 +62,46 @@ Sunday                   762 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 3 mins        █████████████████░░░░░░░░   66.39 % 
-Python                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    5 hrs 29 mins       ███████████████░░░░░░░░░░   60.58 % 
+Python                   2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 38 mins       ███████████████████████░░   90.77 % 
-VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Codex Vscode             8 hrs 6 mins        ██████████████████████░░░   89.52 % 
+VS Code                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 
 🐱‍💻 Projects: 
-MatQuery                 7 hrs 16 mins       █████████████████░░░░░░░░   68.51 % 
-ELEC7011                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-wo                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-EEE5R03                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+MatQuery                 5 hrs 42 mins       ████████████████░░░░░░░░░   63.07 % 
+ELEC7011                 2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+wo                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+EEE5R03                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Windows                  10 hrs 29 mins      █████████████████████████   98.79 % 
-Linux                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Windows                  8 hrs 56 mins       █████████████████████████   98.59 % 
+Linux                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 25 mins (98.03%)
+⏱ AI Coding Time: 8 hrs 51 mins (97.69%)
 
 ✍️ 3,747 lines written by AI, 584 lines written by hand (86.52% AI-written)
 
-🔤 12,757,805 Input Tokens, 1,212,465 Output Tokens
+🔤 12,023,758 Input Tokens, 1,082,152 Output Tokens
 
-💵 $62.98 Estimated AI Cost This Week
+💵 $59.56 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 47 AI Prompts
+🧠 50 AI Sessions, 39 AI Prompts
 
 GPT                      3,747 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 86.52% of written lines came from AI
-📄 Detailed Prompter — average 1,273 characters per prompt
+📄 Detailed Prompter — average 1,177 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 13.56% of changed lines were hand-edited
 ```
@@ -123,7 +123,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kingcxp/Kingcxp/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 03:19:16 UTC
+ Last Updated on 26/11/2026 02:36:50 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingcxp&show_icons=true&count_private=true&theme=aura&hide_border=true&icon_color=FF4500&text_color=76EE00)](https://github.com/anuraghazra/github-readme-stats)    
